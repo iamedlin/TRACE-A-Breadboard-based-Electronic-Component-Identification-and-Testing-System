@@ -79,15 +79,7 @@ Connect Arduino Nano to your computer
 Upload the code
 Assemble the hardware based on provided schematic
 Power the system and start testing
-📷 System Architecture
 
-(Add your flowchart or diagram here if available)
-
-📚 References
-Floyd, T. L. Electronic Devices
-Horowitz, P., Hill, W. The Art of Electronics
-Sedra, A. S., Smith, K. C. Microelectronic Circuits
-Arduino-based component testing studies
 
 👨‍💻 Authors
 Coleen Calixtro
@@ -104,10 +96,3 @@ Integrated component database
 
 This project is for academic and educational purposes.
 
-
----
-
-If you want next:
-✅ I can :contentReference[oaicite:0]{index=0}  
-✅ Or :contentReference[oaicite:1]{index=1}  
-✅ Or even **:contentReference[oaicite:2]{index=2}**
